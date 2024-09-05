@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tlez4egwb-java-quarkus-repository
+spec:
+  url: https://github.com/xjiangorg/tlez4egwb-java-quarkus
